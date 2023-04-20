@@ -10,7 +10,9 @@ $color-tertiary-dark: #5643fa;
 
 $color-grey-light-1: #f7f7f7;
 $color-grey-light-2: #f7f7f7;
-$color-grey-dark: #777;
+$color-grey-dark: #999;
+$color-grey-dark-2: #777;
+$color-grey-dark-3: #333;
 $color-white: #fff;
 $color-black: #000;
 
@@ -19,5 +21,8 @@ $grid-width: 114rem;
 $gutter-vertical: 8rem;
 $gutter-horizontal: 6rem;
 
-//FONT
+// FONT
 $default-font-size: 1.6rem;
+
+// SIZING
+$default-border-radius: 3px;
